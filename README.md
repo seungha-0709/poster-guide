@@ -1,4 +1,4 @@
-# Banner-guide
+# Poster-guide
 
 2023년 2월 25일 첫 커밋과 함께 작성하는 README.md...
 
